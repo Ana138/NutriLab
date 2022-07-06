@@ -1,6 +1,6 @@
 .sidebar{
     background-color: #27DB8F;
-    height: 100vh;
+    height: 120vh;
 }
 
 .logo_sidebar {
@@ -19,7 +19,7 @@
 }
     
 .area_cadastrar {
-    margin-top: 8%;
+    margin-top: 5%;
     margin-left: 15%;
     width: 70%;
 }
@@ -34,8 +34,8 @@
 
     
 .input-form {
-    margin-top: 15px;
-    width: 100%;
+    margin-top: 7px;
+    width: 10%;
     padding: 5px;
     outline: 0;
 }
